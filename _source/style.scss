@@ -1,5 +1,15 @@
 //manual css style overrides go here
 
+body {
+    background-image: url("../_assets/tiling_bg.png");
+}
+
+.gutta-body {
+    background-color: $color-bg;
+    min-height: 100%;
+    box-shadow: 0px 0px 120px $color-bg;
+}
+
 .gutta-scroll-content-container {
     box-shadow: 0px 0px 40px rgba(0,0,0,0.15);
 }
@@ -66,6 +76,9 @@ h2{
     content:url("../_assets/icons/icon_03.webp");
 }
 #gutta-navlink-Cast::before{
+    content:url("../_assets/icons/icon_04.webp");
+}
+#gutta-navlink-Staff::before{
     content:url("../_assets/icons/icon_04.webp");
 }
 #gutta-navlink-About::before{

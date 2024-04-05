@@ -38,7 +38,7 @@ navbar:
     First: gutta.first
     Latest: gutta.latest
     Archive: extras.archive
-    Cast: extras.cast
+    Staff: extras.staff
     About: extras.about
     RSS: gutta.rss
 
@@ -47,7 +47,7 @@ extras:
     layout: toc
   about:
     from: about.md
-  cast:
+  staff:
     from: cast.md
 
 feed:
