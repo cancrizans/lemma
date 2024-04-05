@@ -1,0 +1,77 @@
+//manual css style overrides go here
+
+.gutta-scroll-content-container {
+    box-shadow: 0px 0px 40px rgba(0,0,0,0.15);
+}
+
+.gutta-description{
+    font-size: 14px;
+    max-width: 400px;
+    text-align: justify;
+    padding: 1em;
+}
+
+.gutta-extra{
+    display: block !important;
+    font-size: 1.1rem;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.75rem;
+}
+
+.gutta-navlink{
+    font-size: 20px;
+    color: #222;
+    // border-style: solid;
+    // border-color: #111;
+    // border-width: 1px;
+    // padding: 5px !important;
+    // border-radius: 5px;
+}
+
+.gutta-banner{
+    width: fit-content !important;
+}
+
+.gutta-gallery-entry{
+    min-width: 300px !important;
+    background: #111;
+    color: #eee;
+
+    .text-muted{
+        color:#aaa !important;
+    }
+}
+
+.gutta-navlink::before{
+    vertical-align: -30%;
+}
+
+#gutta-navlink-Home::before{
+    content:url("../_assets/icons/icon_00.webp");
+}
+#gutta-navlink-First::before{
+    content:url("../_assets/icons/icon_01.webp");
+}
+#gutta-navlink-Latest::before{
+    content:url("../_assets/icons/icon_02.webp");
+}
+#gutta-navlink-Archive::before{
+    content:url("../_assets/icons/icon_03.webp");
+}
+#gutta-navlink-Cast::before{
+    content:url("../_assets/icons/icon_04.webp");
+}
+#gutta-navlink-About::before{
+    content:url("../_assets/icons/icon_05.webp");
+}
+#gutta-navlink-RSS::before{
+    content:url("../_assets/icons/icon_06.webp");
+}
+

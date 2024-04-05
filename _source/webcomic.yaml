@@ -1,0 +1,89 @@
+# === Sample webcomic.yaml
+# === Edit this file to suit your webcomic ===
+
+# Hierarchy spec
+hierarchy:
+  webcomic:
+    list_in_toc: no
+    layout: gallery
+    banner: banner_simple.png
+
+  issue:
+    layout: trickle
+    infobox: no
+    show_date: yes
+  update:
+    banner: banner_simple.png
+    layout: scroll
+    show_description: no
+    infobox: yes
+    mount: yes
+    dated: yes
+    show_date: yes
+    content_is_link: yes
+
+title: Lemma
+favicon: gutta_tutorial/gutta_logo_icon.svg
+webroot: https://cancrizans.github.io/lemma/
+
+labels:
+  goto_next: "Evolve to: {{next.full_title}}"
+  end: "This is the end for now. Next episode will release soon! [Back Home]({{sroot}})"
+  goto_back: "Regress to: {{previous.full_title}}"
+
+
+navbar:
+  menu:
+    Home: gutta.home
+    First: gutta.first
+    Latest: gutta.latest
+    Archive: extras.archive
+    Cast: extras.cast
+    About: extras.about
+    RSS: gutta.rss
+
+extras:
+  archive:
+    layout: toc
+  about:
+    from: about.md
+  cast:
+    from: cast.md
+
+feed:
+  entries: update
+
+# Contents
+root:
+  
+  title: Lemma
+  short_title: ""
+  show_title: no
+  description: "A webcomic about strange, strange science."
+  children:
+    issue01:
+      title: Abstract
+      description: Are you walled in or walled out?
+      # >
+      #       **Abstract:** We present a pedagogical introduction to the recent advances in empirical 
+      #       esoteric sciences aimed at apprentices at the graduate level. These notes will instruct
+      #       on the status of research-level fieldwork in hydrosemiotics and connected fields at the
+      #       boundary of the Region of Interest.
+      prefix: issue1/
+      thumb: thumb_river.png
+      children:
+        abs1:
+          title: "1"
+          date: 18 March 2024
+          description: Finally starting this comic!
+          pix: Comic_[001-002].webp
+        abs2:
+          title: "2"
+          description: And now... I'm continuing the comic!
+          date: 26 March 2024
+          pix: Comic_[003-004].webp
+        abs3:
+          title: "3"
+          description: Money always talks.
+          date: 5 April 2024
+          pix: Comic_005.webp

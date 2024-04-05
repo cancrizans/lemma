@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Lemma</title>
+    <link>https://cancrizans.github.io/lemma/</link>
+    <description>A webcomic about strange, strange science.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 04 Apr 2024 23:13:17 +0000</lastBuildDate>
+    <item>
+      <title>Abstract - 3</title>
+      <link>https://cancrizans.github.io/lemma/abs3/</link>
+      <description>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_005.webp' width='2000' height='5500' alt='Abstract - 3'&gt;&lt;/hr&gt;&lt;p&gt;Money always talks.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://cancrizans.github.io/lemma/abs3/</guid>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abstract - 2</title>
+      <link>https://cancrizans.github.io/lemma/abs2/</link>
+      <description>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_003.webp' width='2000' height='4900' alt='Abstract - 2'&gt;&lt;/hr&gt;&lt;p&gt;And now... I'm continuing the comic!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://cancrizans.github.io/lemma/abs2/</guid>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abstract - 1</title>
+      <link>https://cancrizans.github.io/lemma/abs1/</link>
+      <description>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_001.webp' width='2000' height='5700' alt='Abstract - 1'&gt;&lt;/hr&gt;&lt;p&gt;Finally starting this comic!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://cancrizans.github.io/lemma/abs1/</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
