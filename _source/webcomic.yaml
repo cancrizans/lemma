@@ -60,6 +60,7 @@ root:
   short_title: ""
   show_title: no
   description: "A webcomic about strange, strange science."
+  og.img: banner_simple.png
   children:
     issue01:
       title: Abstract
