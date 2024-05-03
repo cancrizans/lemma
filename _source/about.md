@@ -2,7 +2,7 @@
 
 **Lemma** is a webcomic I've been wanting to make for a long while now, a playful dive into the maddening landscape that is academia and the strange creatures that inhabit it.
 
-If you're feeling up for something even weirder, check out my main webcomic [Flesh Kernel](https://fleshkernel.com).
+Lemma is the companion and prequel to my main webcomic [Flesh Kernel](https://fleshkernel.com). You can read either, none or both in any order.
 
 ## Who do you think you are?
 

@@ -3,3 +3,4 @@ root.issue01 (unmounted)
 root.issue01.abs1 -> abs1/
 root.issue01.abs2 -> abs2/
 root.issue01.abs3 -> abs3/
+root.issue01.abs4 -> abs4/

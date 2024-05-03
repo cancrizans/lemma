@@ -88,3 +88,8 @@ root:
           description: Money always talks.
           date: 5 April 2024
           pix: Comic_005.webp
+        abs4:
+          title: "4"
+          description: Your webcomic might have a lore dump, but mine's got a *daily* lore dump.
+          date: 16 April 2024
+          pix: Comic_[006-007].webp
