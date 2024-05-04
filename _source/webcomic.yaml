@@ -73,9 +73,9 @@ root:
       prefix: issue1/
       thumb: thumb_river.png
       children:
-        abs_cover:
-          title: "Cover"
-          pix: cover_abstract.webp
+        # abs_cover:
+        #   title: "Cover"
+        #   pix: cover_abstract.webp
         abs1:
           title: "1"
           date: 18 March 2024

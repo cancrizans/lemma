@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://cancrizans.github.io/lemma/</id>
   <title>Lemma</title>
-  <updated>2024-05-04T13:21:00.494002+00:00</updated>
+  <updated>2024-05-04T17:34:13.019315+00:00</updated>
   <link href="https://cancrizans.github.io/lemma/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>A webcomic about strange, strange science.</subtitle>
   <entry>
     <id>https://cancrizans.github.io/lemma/abs4/</id>
     <title>Abstract - 4</title>
-    <updated>2024-05-04T13:21:00.494002+00:00</updated>
+    <updated>2024-05-04T17:34:13.019315+00:00</updated>
     <content>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_006.webp' width='2000' height='6100' alt='Abstract - 4'&gt;&lt;/hr&gt;&lt;p&gt;Your webcomic might have a lore dump, but mine's got a &lt;em&gt;daily&lt;/em&gt; lore dump.&lt;/p&gt;</content>
     <link href="https://cancrizans.github.io/lemma/abs4/"/>
     <published>2024-04-16T00:00:00+00:00</published>
@@ -17,7 +17,7 @@
   <entry>
     <id>https://cancrizans.github.io/lemma/abs3/</id>
     <title>Abstract - 3</title>
-    <updated>2024-05-04T13:21:00.494002+00:00</updated>
+    <updated>2024-05-04T17:34:13.019315+00:00</updated>
     <content>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_005.webp' width='2000' height='5500' alt='Abstract - 3'&gt;&lt;/hr&gt;&lt;p&gt;Money always talks.&lt;/p&gt;</content>
     <link href="https://cancrizans.github.io/lemma/abs3/"/>
     <published>2024-04-05T00:00:00+00:00</published>
@@ -25,7 +25,7 @@
   <entry>
     <id>https://cancrizans.github.io/lemma/abs2/</id>
     <title>Abstract - 2</title>
-    <updated>2024-05-04T13:21:00.494002+00:00</updated>
+    <updated>2024-05-04T17:34:13.019315+00:00</updated>
     <content>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_003.webp' width='2000' height='4900' alt='Abstract - 2'&gt;&lt;/hr&gt;&lt;p&gt;And now... I'm continuing the comic!&lt;/p&gt;</content>
     <link href="https://cancrizans.github.io/lemma/abs2/"/>
     <published>2024-03-26T00:00:00+00:00</published>
@@ -33,17 +33,9 @@
   <entry>
     <id>https://cancrizans.github.io/lemma/abs1/</id>
     <title>Abstract - 1</title>
-    <updated>2024-05-04T13:21:00.494002+00:00</updated>
+    <updated>2024-05-04T17:34:13.019315+00:00</updated>
     <content>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/Comic_001.webp' width='2000' height='5700' alt='Abstract - 1'&gt;&lt;/hr&gt;&lt;p&gt;Finally starting this comic!&lt;/p&gt;</content>
     <link href="https://cancrizans.github.io/lemma/abs1/"/>
-    <published>2024-03-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cancrizans.github.io/lemma/abs_cover/</id>
-    <title>Abstract - Cover</title>
-    <updated>2024-05-04T13:21:00.494002+00:00</updated>
-    <content>&lt;img src='https://cancrizans.github.io/lemma/_assets/issue1/cover_abstract.webp' width='2000' height='2828' alt='Abstract - Cover'&gt;&lt;/hr&gt;</content>
-    <link href="https://cancrizans.github.io/lemma/abs_cover/"/>
     <published>2024-03-18T00:00:00+00:00</published>
   </entry>
 </feed>
