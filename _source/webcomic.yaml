@@ -96,3 +96,8 @@ root:
           description: Your webcomic might have a lore dump, but mine's got a *daily* lore dump.
           date: 16 April 2024
           pix: Comic_[006-007].webp
+        abs5:
+          title: "5"
+          description: Science thrives with healthy debate.
+          date: 11 May 2024
+          pix: Comic_00[8-9].webp
