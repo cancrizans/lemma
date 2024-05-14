@@ -72,6 +72,7 @@ root:
       #       boundary of the Region of Interest.
       prefix: issue1/
       thumb: thumb_river.png
+      og.img: thumb_river.png
       children:
         # abs_cover:
         #   title: "Cover"
@@ -88,16 +89,16 @@ root:
           pix: Comic_[003-004].webp
         abs3:
           title: "3"
-          description: Money always talks.
+          description: Money always talks, never listens.
           date: 5 April 2024
           pix: Comic_005.webp
         abs4:
           title: "4"
-          description: Your webcomic might have a lore dump, but mine's got a *daily* lore dump.
+          description: "*Your* webcomic might have a lore dump, but mine's got a *daily* lore dump."
           date: 16 April 2024
           pix: Comic_[006-007].webp
         abs5:
           title: "5"
-          description: Science thrives with healthy debate.
+          description: Science thrives on healthy debate. Make sure to get your daily fallacies in!
           date: 11 May 2024
           pix: Comic_00[8-9].webp
